@@ -2,7 +2,7 @@
 
 Welcome to my personal astronomy portfolio website, showcasing celestial observations and educational content about our magnificent universe.
 
-![Deep Space Observatory](https://via.placeholder.com/600x300/1a1a2e/eee?text=Deep+Space+Observatory)
+![Deep Space Observatory](https://epic.gsfc.nasa.gov/)
 
 ## About This Site
 
@@ -14,7 +14,7 @@ My work focuses on several key areas:
 - **Deep Sky Photography**: Long-exposure imaging of galaxies, nebulae, and star clusters
 - **Spectroscopy**: Analysis of light spectra to determine chemical composition of celestial objects
 
-![Nebula Collection](https://via.placeholder.com/600x300/2d1b69/fff?text=Nebula+Collection)
+![Nebula Collection]([https://via.placeholder.com/600x300/2d1b69/fff?text=Nebula+Collection](https://esahubble.org/images/archive/category/nebulae/))
 
 ## Gallery
 
